@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Rutvik Sai Mittapalli
 
-<!--
-**rutviksai1301/rutviksai1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Student @ UMass Dartmouth (Massachusetts, USA)  
+💻  AI/ML Explorer | Passionate Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+Hi! I'm Rutvik, a graduate student in Computer Science from UMass Dartmouth 🚀. I’m deeply passionate about exploring innovative technologies, especially in the fields of Artificial Intelligence and Machine Learning.
+
+I enjoy building solutions, sharing knowledge, and learning something new every day. Whether it’s collaborating on exciting projects or tackling technical challenges, I’m always up for it!
+
+---
+
+## ⚙️ Technical Skills
+
+- **Languages:** Python, Java, C++, R  
+- **Web:** HTML, CSS, JavaScript, Node.js  
+- **Data:** MySQL, PostgreSQL, MongoDB  
+- **AI/ML:** scikit-learn, XGBoost, pandas, NumPy, Matplotlib  
+- **Tools/Platforms:** Git, GitHub, AWS, VS Code, Jupyter, Apache Superset  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning Techniques  
+- Deep Learning & Neural Networks  
+- Cloud-based AI Solutions with AWS  
+
+---
+
+## 📫 Let's Connect!
+
+💬 Ask me anything, I’m always happy to help!  
+📧 Email: mittapallirutviksai@gmail.com  
+
+
+Thanks for stopping by! ⭐  
