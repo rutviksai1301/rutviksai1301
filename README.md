@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-Hi! I'm Rutvik, a graduate student in Computer Science from UMass Dartmouth 🚀. I’m deeply passionate about exploring innovative technologies, especially in the fields of Artificial Intelligence and Machine Learning.
+Hi! I'm Rutvik, a graduate student in Technology from UMass Dartmouth 🚀. I’m deeply passionate about exploring innovative technologies, especially in the fields of Artificial Intelligence and Machine Learning.
 
 I enjoy building solutions, sharing knowledge, and learning something new every day. Whether it’s collaborating on exciting projects or tackling technical challenges, I’m always up for it!
 
