@@ -15,7 +15,7 @@ I enjoy building solutions, sharing knowledge, and learning something new every 
 
 ## ⚙️ Technical Skills
 
-- **Languages:** Python, Java, C++, R  
+- **Languages:** Python, Java, C, R  
 - **Web:** HTML, CSS, JavaScript, Node.js  
 - **Data:** MySQL, PostgreSQL, MongoDB  
 - **AI/ML:** scikit-learn, XGBoost, pandas, NumPy, Matplotlib  
